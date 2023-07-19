@@ -9,6 +9,7 @@ export default function ImageGalleryItem ({ image, onModal }) {
     </li>
   );
 };
+
 ImageGalleryItem.propTypes = {
   image: PropTypes.shape({
     largeImageURL: PropTypes.string.isRequired,
