@@ -1,0 +1,8 @@
+.Container {
+ position: fixed;
+ top: 35%;
+ left: 47%;
+ display: flex;
+ justify-content: center;
+ margin: 30px;
+} 
